@@ -33,7 +33,7 @@ async def start(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        text="Owner", url="https://t.me/HEROGAMERS1"
+                        text="Support Group", url="https://t.me/GIRLS_AND_BOYS_CHATTING"
                     )
                 ]
             ]
