@@ -1,4 +1,3 @@
-# © @Mr_Dark_Prince
 import logging
 from pyrogram import Client
 from config import API_HASH, API_ID, BOT_TOKEN
@@ -9,4 +8,4 @@ logging.basicConfig(
 
 LOGGER = logging.getLogger(__name__)
 
-app = Client("AlexaSongBot", bot_token=BOT_TOKEN, api_hash=API_HASH, api_id=API_ID)
+app = Client("LaylaSongBot", bot_token=BOT_TOKEN, api_hash=API_HASH, api_id=API_ID)
